@@ -175,3 +175,7 @@ figcaption > p {
   font-style: italic;
   color: #ccc;
 }
+
+.katex {
+  font-size: 31px !important;
+}
